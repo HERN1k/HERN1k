@@ -38,4 +38,8 @@
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HERN1k&theme=radical&hide_border=false" />
 </div>
-![](https://visitcount.itsvg.in/api?id=HERN1k&icon=7&color=10)](https://visitcount.itsvg.in)
+<div algin="center">
+  <img alt="VisitCount" src="https://visitcount.itsvg.in/api?id=HERN1k&icon=7&color=10" height="30px"/>
+  <img alt="VisitCount" src="https://visitcount.itsvg.in" height="30px"/>
+</div>
+[![](https://visitcount.itsvg.in/api?id=HERN1k&icon=7&color=10)](https://visitcount.itsvg.in)
