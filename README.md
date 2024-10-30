@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ All about me is at **[My Website](https://example.com/)**
+- 🙋‍♂️ All about me is at **[My Website](https://hern1k.xyz/)**
   
 - 🔭 I’m currently working on `Something Intresting`
 
