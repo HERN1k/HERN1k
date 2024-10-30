@@ -40,5 +40,4 @@
 </div>
 <div algin="center">
   <img alt="VisitCount" src="https://visitcount.itsvg.in/api?id=HERN1k&icon=7&color=10" height="30px" display="block" />
-  <img alt="VisitCount" src="https://visitcount.itsvg.in" height="30px" display="block" />
 </div>
