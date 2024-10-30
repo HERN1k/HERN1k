@@ -16,12 +16,14 @@
 
 ## ❤️ Let's get connected:
 <p>
-	<a href="https://linkedin.com/in/vlad-hirnyk-84654b328" target="_blank">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
-	</a> 
-	<a href="https://t.me/hern1k" target="_blank">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" height="30px"/>
-	</a> 
+  <a href="https://linkedin.com/in/vlad-hirnyk-84654b328" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
+  </a>
+</p>
+<p>
+  <a href="https://t.me/hern1k" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" height="30px"/>
+  </a> 
 </p>
 
 ## 🛠️ Technologies and Tools I use:
@@ -31,12 +33,15 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HERN1k&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
+<br></br>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HERN1k&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
+<br></br>
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HERN1k&theme=radical&hide_border=false" />
 </div>
+<br></br>
 <p align="center">
   <img alt="VisitCount" src="https://visitcount.itsvg.in/api?id=HERN1k&icon=7&color=10" height="30px" />
 </p>
