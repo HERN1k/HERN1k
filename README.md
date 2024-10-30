@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://tenor.com/view/waving-hand-om-nom-cut-the-rope-hello-hi-there-gif-12476502740222298913.gif" width="30px" height="60px"> I'm Vlad Hirnyk</h1>
+<h1 align="center">Hello<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzE0ZnF4dmcwa2diY3kzd3Vsc2xidDRxMndhbmcydmh0OWw0NXJleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" width="30px" height="60px"> I'm Vlad Hirnyk</h1>
 
 ## 👨🏻‍💻 About Me:
 
