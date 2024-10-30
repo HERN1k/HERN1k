@@ -1,6 +1,6 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px" height="60px"> I'm Vlad Hirnyk</h1>
 <div align="center">
-  <img src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhoMjI0bXk0cWozb2F6ZTk0b2Nyam5lbXh6YmxiZHMyNW85d3QwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy-downsized.gif" width="800px" height="300px" />
+  <img src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhoMjI0bXk0cWozb2F6ZTk0b2Nyam5lbXh6YmxiZHMyNW85d3QwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy-downsized.gif" height="300px" />
 </div>
 <p></p>
 
