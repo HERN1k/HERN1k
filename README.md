@@ -18,9 +18,10 @@
 
 ## ❤️ Let's get connected:
 <p>
-  <a href="https://linkedin.com/in/vlad-hirnyk-84654b328" target="_blank">
+  <a href="https://linkedin.com/in/vlad-hirnyk-84654b328" target="_blank" style="display: inline-block;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
-  </a><a href="https://t.me/hern1k" target="_blank">
+  </a>
+  <a href="https://t.me/hern1k" target="_blank" style="display: inline-block;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" height="30px"/>
   </a> 
 </p>
