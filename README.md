@@ -30,7 +30,7 @@
 
 ## 📊 My GitHub Data:
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HERN1k&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" display="inline" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HERN1k&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HERN1k&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
@@ -39,7 +39,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HERN1k&theme=radical&hide_border=false" />
 </div>
 <div algin="center">
-  <img alt="VisitCount" src="https://visitcount.itsvg.in/api?id=HERN1k&icon=7&color=10" height="30px"/>
-  <img alt="VisitCount" src="https://visitcount.itsvg.in" height="30px"/>
+  <img alt="VisitCount" src="https://visitcount.itsvg.in/api?id=HERN1k&icon=7&color=10" height="30px" display="block" />
+  <img alt="VisitCount" src="https://visitcount.itsvg.in" height="30px" display="block" />
 </div>
-[![](https://visitcount.itsvg.in/api?id=HERN1k&icon=7&color=10)](https://visitcount.itsvg.in)
