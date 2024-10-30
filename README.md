@@ -30,10 +30,8 @@
 
 ## 📊 My GitHub Data:
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HERN1k&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HERN1k&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" display="inline" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HERN1k&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HERN1k&theme=radical&hide_border=false" />
+  [![](https://visitcount.itsvg.in/api?id=HERN1k&icon=7&color=10)](https://visitcount.itsvg.in)
 </div>
-
----
-[![](https://visitcount.itsvg.in/api?id=HERN1k&icon=7&color=10)](https://visitcount.itsvg.in)
