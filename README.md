@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Vlad Hirnyk</h1>
+<h1 align="center">Hello<img src="https://tenor.com/view/waving-hand-om-nom-cut-the-rope-hello-hi-there-gif-12476502740222298913" width="30px" height="60px"> I'm Vlad Hirnyk</h1>
 
 ## 👨🏻‍💻 About Me:
 
