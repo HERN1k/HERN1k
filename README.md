@@ -1,6 +1,5 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Vlad Hirnyk</h1>
 
-## 👨🏻‍💻 About Me:
 - 🙋‍♂️ All about me is at **[My Website](https://example.com/)**
   
 - 🔭 I’m currently working on `Something Intresting`
@@ -38,6 +37,6 @@
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HERN1k&theme=radical&hide_border=false" />
 </div>
-<div algin="center">
-  <img alt="VisitCount" src="https://visitcount.itsvg.in/api?id=HERN1k&icon=7&color=10" height="30px" display="block" />
-</div>
+<p align="center">
+  <img alt="VisitCount" src="https://visitcount.itsvg.in/api?id=HERN1k&icon=7&color=10" height="30px" />
+</p>
