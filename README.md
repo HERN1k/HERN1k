@@ -27,9 +27,9 @@
   <img alt="VisitCount" src="https://visitcount.itsvg.in/api?id=HERN1k&icon=7&color=10" height="30px" />
 </p>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HERN1k&theme=radical&include_all_commits=true&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HERN1k&theme=radical&include_all_commits=true&count_private=true&layout=compact&hide_border=true" />
 </div>
 <p></p>
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HERN1k&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HERN1k&theme=radical&hide_border=true" />
 </div>
