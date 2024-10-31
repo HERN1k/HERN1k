@@ -67,14 +67,18 @@
 </div>
 
 ## 💡 My Setup:
- - 💻 Laptop: `---`
+ - 💻 Laptop: `ASUS TUF Gaming FX705DT`
    
- - 📺 Second Monitor: `---`
+ - 📺 Second Monitor: `Samsung Odyssey G3 24”`
    
- - ⌨️ Keyboard: `---`
+ - ⌨️ Keyboard: `ASUS ROG Falchion RX Low Profile White`
    
- - 🖱 Mouse: `---`
+ - 🖱 Mouse: `Razer Viper Ultimate Wireless White`
    
- - 🔊 Headphones: `---`
+ - 🔊 Headphones: `Logitech G435 LIGHTSPEED Wireless White`
    
- - 🎙 Microphone: `---`
+ - 🎙 Microphone: `Razer Seiren mini Mercury`
+
+ - ⛩️ Table: `Cougar Deimus 120`
+
+ - 💺 Chair: `Aerocool Aero 2 Alpha`
