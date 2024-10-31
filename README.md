@@ -65,3 +65,11 @@
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HERN1k&theme=radical&hide_border=true" />
 </div>
+
+## 💡 My Setup:
+ - 💻 Laptop: ---
+ - 📺 Second Monitor: ---
+ - ⌨️ Keyboard: ---
+ - 🖱 Mouse: ---
+ - 🔊 Headphones: ---
+ - 🎙 Microphone: ---
