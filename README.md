@@ -67,9 +67,14 @@
 </div>
 
 ## 💡 My Setup:
- - 💻 Laptop: ---
- - 📺 Second Monitor: ---
- - ⌨️ Keyboard: ---
- - 🖱 Mouse: ---
- - 🔊 Headphones: ---
- - 🎙 Microphone: ---
+ - 💻 Laptop: `---`
+   
+ - 📺 Second Monitor: `---`
+   
+ - ⌨️ Keyboard: `---`
+   
+ - 🖱 Mouse: `---`
+   
+ - 🔊 Headphones: `---`
+   
+ - 🎙 Microphone: `---`
