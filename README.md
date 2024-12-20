@@ -6,19 +6,19 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ All about me is at **[My Website](https://hern1k.xyz/)**
+- 🙋‍♂️ **All about me is at** **[My Website](https://hern1k.xyz/)**
   
-- 🔭 I’m currently working on `Something Intresting`
+- 🔭 **I’m currently working on** `Something Intresting`
 
-- 🌱 I’m currently learning `Docker, Azure, and advanced .NET features`
+- 🌱 **I’m currently learning** `Docker, Azure, and advanced .NET features`
 
-- 👯 I’m looking to collaborate on `Backend and cloud projects`
+- 👯 **I’m looking to collaborate on** `Backend and cloud projects`
 
-- 🤔 I’m looking for help with `Distributed systems and backend architecture`
+- 🤔 **I’m looking for help with** `Distributed systems and backend architecture`
 
-- 💬 Ask me about anything, Except Design :sweat_smile:
+- 💬 **Ask me about anything, Except Design** :sweat_smile:
 
-- ⚡ Fun fact: I’m a gym enthusiast outside of coding
+- ⚡ **Fun fact: I’m a gym enthusiast outside of coding**
 
 ## ❤️ Let's get connected:
 
@@ -67,18 +67,18 @@
 </div>
 
 ## 💡 My Setup:
- - 💻 Laptop: `ASUS TUF Gaming FX705DT`
+ - 💻 **Laptop:** `ASUS TUF Gaming FX705DT`
    
- - 📺 Second Monitor: `Samsung Odyssey G3 24”`
+ - 📺 **Second Monitor:** `Samsung Odyssey G3 24”`
    
- - ⌨️ Keyboard: `ASUS ROG Falchion RX Low Profile White`
+ - ⌨️ **Keyboard:** `ASUS ROG Falchion RX Low Profile White`
    
- - 🖱 Mouse: `Razer Viper Ultimate Wireless White`
+ - 🖱 **Mouse:** `Razer Viper Ultimate Wireless White`
    
- - 🔊 Headphones: `Logitech G435 LIGHTSPEED Wireless White`
+ - 🔊 **Headphones:** `Logitech G435 LIGHTSPEED Wireless White`
    
- - 🎙 Microphone: `Razer Seiren mini Mercury`
+ - 🎙 **Microphone:** `Razer Seiren mini Mercury`
 
- - ⛩️ Table: `Cougar Deimus 120`
+ - ⛩️ **Table:** `Cougar Deimus 120`
 
- - 💺 Chair: `Aerocool Aero 2 Alpha`
+ - 💺 **Chair:** `Aerocool Aero 2 Alpha`
